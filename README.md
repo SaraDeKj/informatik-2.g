@@ -1,1 +1,1 @@
-# informatik-2.g
+# informatik notesbog 
