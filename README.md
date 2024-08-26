@@ -1,6 +1,6 @@
-# informatik notesbog 
-## kapitel 1. 
-### tello dronen
+# Informatik notesbog 
+## Kapitel 1. 
+### Tello dronen
 __3 lags modellen__  
 - _præsentation_  
   Appen til dronen (både grafik og klik fra brugeren)  
@@ -16,6 +16,6 @@ __3 lags modellen__
 - _data_  
   Kode der beskriver hvordan den flyver
 
-## logbog:
+## Logbog:
 ### 16.08-2024
 Vi har leget med dronen idag og lavet et script der kan få dronen til at flyve i en firkant og lave flips. Filnavn 
