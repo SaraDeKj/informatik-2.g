@@ -18,3 +18,18 @@ __3 lags modellen__
 ## Logbog:
 ### 16.08-2024
 Vi har leget med dronen idag og lavet et script der kan få dronen til at flyve i en firkant og lave flips. Filnavn 
+
+### 26.08-24
+fokus på innovation.  
+idegenerering til styring af stello drone.
+
+- puls styrer fart på dronen  
+- tegnsprogs styring
+- hoved styrringm. motiondetector.
+- danse måtte
+- puppeteer  
+
+vi vælger at lave puppeteer. Denne ide er radikal rdical på positions området i de 4 p'er model.
+Fordi Vi bruger allerede existerende teknologi på et andet område som det er ikke er blevet brugt på før.
+
+
