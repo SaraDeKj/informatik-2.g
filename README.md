@@ -15,3 +15,7 @@ __3 lags modellen__
   
 - _data_  
   Kode der beskriver hvordan den flyver
+
+## logbog:
+### 16.08-2024
+Vi har leget med dronen idag og lavet et script der kan få dronen til at flyve i en firkant og lave flips. Filnavn 
