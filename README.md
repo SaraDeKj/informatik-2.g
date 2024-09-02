@@ -29,7 +29,7 @@ idegenerering til styring af stello drone.
 - danse måtte
 - puppeteer  
 
-vi vælger at lave puppeteer. Denne ide er radikal rdical på positions området i de 4 p'er model.
+vi vælger at lave puppeteer. Denne ide er radikal på positions området i de 4 p'er model.
 Fordi Vi bruger allerede existerende teknologi på et andet område som det er ikke er blevet brugt på før.
 bullshit
 
