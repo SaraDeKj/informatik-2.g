@@ -23,11 +23,11 @@ Vi har leget med dronen idag og lavet et script der kan få dronen til at flyve 
 fokus på innovation.  
 idegenerering til styring af stello drone.
 
-- puls styrer fart på dronen  
-- tegnsprogs styring
-- hoved styrringm. motiondetector.
-- danse måtte
-- puppeteer  
+- puls styrer fart på dronen. Jo hurtigere puls, jo hurtigere kører dronen, evt. noget der kan måle pulsen, en måde at dreje dronen på??
+- tegnsprogs styring. Effekter ved hjælp af motiondetector måske? Reagere på Hænderne, evt. AI
+- hoved styrringm. motiondetector. Brug af et motionsensor, hvor dronen følger hovedets bevægelser, hvis muligt. Dronen flyver evt. i den retning brugeren kigger.
+- danse måtte. Ligesom de der spil, hvor der hvor man træder er højre, venstre, lige ud osv. Evt. AI?
+- Puppeteer: En puppeteer kontrollere hvor dronen styres gennem bevægelser igennem tråde som i en dukke. En tiltswitch eller anden sensor fastgjort til snorene bruges til at registrere vejene snorene drejes, hælder osv, til at sende videre bevægelserne til hvor dronen så gå
 
 vi vælger at lave puppeteer. Denne ide er radikal på positions området i de 4 p'er model.
 Fordi Vi bruger allerede existerende teknologi på et andet område som det er ikke er blevet brugt på før.
@@ -48,6 +48,7 @@ Blokdiagram:
 Flowchart: 
 (bemærk at vi ikke har fundet en måde at lande dronen på endu)
 ![drone flowchart image](https://github.com/user-attachments/assets/9b1fab64-d9b9-4d64-8787-4a6a89a49e5c)
+
 
 
 
