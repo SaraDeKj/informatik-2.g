@@ -47,6 +47,7 @@ Blokdiagram:
 
 Flowchart: 
 (bemærk at vi ikke har fundet en måde at lande dronen på endu)
-![image](https://github.com/SaraDeKj/informatik-2.g/blob/a87fe1e2282e2c179d0e0c0bdc01250b84262fc8/drone%20flowchart%201.pdf)
+![drone flowchart image.png](..%2F..%2FOneDrive%20-%20AARHUS%20TECH%2FPictures%2FScreenshots%2Fdrone%20flowchart%20image.png)
+
 
 
