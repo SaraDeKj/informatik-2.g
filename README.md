@@ -44,3 +44,7 @@ Evt. mulighed for en visuel feedback, så brugeren ved hvordan bevægelserne på
 
 Blokdiagram:
 ![image](https://github.com/user-attachments/assets/02548c5d-0ed8-4f24-8d31-f9e2266ccc8b)
+
+Flowchart: 
+(bemærk at vi ikke har fundet en måde at lande dronen på endu)
+
