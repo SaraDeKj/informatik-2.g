@@ -31,5 +31,7 @@ idegenerering til styring af stello drone.
 
 vi vælger at lave puppeteer. Denne ide er radikal på positions området i de 4 p'er model.
 Fordi Vi bruger allerede existerende teknologi på et andet område som det er ikke er blevet brugt på før.
-bullshit
+
+
+Vi har valgt, at bruge en tiltswitch, eller vi vil teste, om den kan sættes fast med en snor, hvor man kan "lege" puppeteer med den, og om den kan reagere til inputsne fra hvordan man kontrollere snorene
 
