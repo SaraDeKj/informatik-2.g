@@ -35,3 +35,12 @@ Fordi Vi bruger allerede existerende teknologi på et andet område som det er i
 
 Vi har valgt, at bruge en tiltswitch, eller vi vil teste, om den kan sættes fast med en snor, hvor man kan "lege" puppeteer med den, og om den kan reagere til inputsne fra hvordan man kontrollere snorene
 
+Krav til Systemet:
+
+Tiltswitches, der registerer bevægelsen af snorene, hvilken retning osv.
+Arduino, der behandler dataene fra tiltswitchene og giver det videre til TELLO dronen
+Kommandoer til TELLO dronen via en computer, eller andet
+Evt. mulighed for en visuel feedback, så brugeren ved hvordan bevægelserne påvirker dronen
+
+Blokdiagram:
+![image](https://github.com/user-attachments/assets/02548c5d-0ed8-4f24-8d31-f9e2266ccc8b)
