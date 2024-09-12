@@ -55,7 +55,11 @@ Flowchart:
  Til vores styrring bruger vi Grove axel 6 til at måle hvilke veje vi tilter styrings boarded. Vi bruger et axelerometer da vi gerne vil kunne måle præcis hvilke veje, altså højrevenstre frem eller tilbage, som vi vipper boardet.   
  Vi bruger denne tutorial til data fra axelerometeret   
  https://wiki.seeedstudio.com/Grove-6-Axis_Accelerometer&Gyroscope_BMI088/ 
- 
 
+ ved at have stikket til højre gælder følgende vip.   
+højre under -300 i 2. koordinat   
+venstre over +300 i 2. koordinat   
+lige ud uner -300 i 1. koordinat   
+bagud over +300 i 1. kopordinat   
 
 
