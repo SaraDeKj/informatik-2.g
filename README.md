@@ -52,7 +52,9 @@ Flowchart:
  ### 12.09-24
  Vi har lavet et trello board   
  https://trello.com/b/MWbsBEyX/informatik    
- Til vores styrring bruger vi Grove axel 6 til at måle hvilke veje vi tilter styrings boarded. Vi bruger et axelerometer da vi gerne vil kunne måle præcis hvilke veje, altså højrevenstre frem eller tilbage, som vi vipper boardet.
+ Til vores styrring bruger vi Grove axel 6 til at måle hvilke veje vi tilter styrings boarded. Vi bruger et axelerometer da vi gerne vil kunne måle præcis hvilke veje, altså højrevenstre frem eller tilbage, som vi vipper boardet.   
+ Vi bruger denne tutorial til data fra axelerometeret   
+ https://wiki.seeedstudio.com/Grove-6-Axis_Accelerometer&Gyroscope_BMI088/ 
  
 
 
