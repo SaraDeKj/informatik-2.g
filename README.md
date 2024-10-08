@@ -62,4 +62,9 @@ venstre over +300 i 2. koordinat
 lige ud uner -300 i 1. koordinat   
 bagud over +300 i 1. kopordinat   
 
+### 03.10-24
+Vi har lavet en prototype og en bruger test ifht hvordan brugeren vil bruge vores controller
+Det gjorde vi med et papir kryds der simulerer marionetdukke håndtaget som er vores inspiration
+
+
 
