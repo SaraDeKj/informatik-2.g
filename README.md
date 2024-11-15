@@ -49,7 +49,22 @@ Flowchart:
 (bemærk at vi ikke har fundet en måde at lande dronen på endu)
 ![drone flowchart image](https://github.com/user-attachments/assets/9b1fab64-d9b9-4d64-8787-4a6a89a49e5c)
 
+ ### 12.09-24
+ Vi har lavet et trello board   
+ https://trello.com/b/MWbsBEyX/informatik    
+ Til vores styrring bruger vi Grove axel 6 til at måle hvilke veje vi tilter styrings boarded. Vi bruger et axelerometer da vi gerne vil kunne måle præcis hvilke veje, altså højrevenstre frem eller tilbage, som vi vipper boardet.   
+ Vi bruger denne tutorial til data fra axelerometeret   
+ https://wiki.seeedstudio.com/Grove-6-Axis_Accelerometer&Gyroscope_BMI088/ 
 
+ ved at have stikket til højre gælder følgende vip.   
+højre under -300 i 2. koordinat   
+venstre over +300 i 2. koordinat   
+lige ud uner -300 i 1. koordinat   
+bagud over +300 i 1. kopordinat   
+
+### 03.10-24
+Vi har lavet en prototype og en bruger test ifht hvordan brugeren vil bruge vores controller
+Det gjorde vi med et papir kryds der simulerer marionetdukke håndtaget som er vores inspiration
 
 
 
