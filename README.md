@@ -72,15 +72,34 @@ Det gjorde vi med et papir kryds der simulerer marionetdukke håndtaget som er v
 Vi snakker om kryptering.  
 ![image](https://github.com/user-attachments/assets/537395d1-710a-49c2-8c97-e6a7ef15934a)
 
+#### Data og bogstaver
+
+ 
+#### Kryptering af beskeder
+### RSA
 - Public key
     - Public og sendes us til alle så de kan kryptere information med den og sende den. Kan dekrypteres med modtageren secret key.
 - secret key
     - Kun en selv der har den key som bruges til at aflæse beskeder krypteres med ens egen publickey.
- 
-#### Kryptering af beskeder
-### RSA
-- Kryptering ved hjælp af primtal
-- 
+
+Kryptering ved hjælp af primtal  
+N= p * q   
+hvor p og q er primtal  
+For at lave e værdi gør vi følgende  
+r=(p-1)*(q-1)  
+Vi skal så have et tal der giver 1 mod r som vi kalder k  
+Det skal så faktoriseres til to numre som vi kalder d og e, hvor e*d mod r = 1  
+
+nu har vi d, e og N  
+
+- public key 
+    -(msg)^e Mod N
+    - er nu krypteret
+- secret key 
+    - (chifer)^d Mod N
+    - er nu dekrypteret
+man kan sende sin public key som andre kan bruge til at kryptere dataen men man er den enste der kan dekryptere den fordi man er den eneste der har sin secret key
+
 
 
 
