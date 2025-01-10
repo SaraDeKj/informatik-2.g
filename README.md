@@ -75,7 +75,14 @@ Vi snakker om kryptering.
 ![image](https://github.com/user-attachments/assets/537395d1-710a-49c2-8c97-e6a7ef15934a)
 
 - Public key
+    - Public og sendes us til alle så de kan kryptere information med den og sende den. Kan dekrypteres med modtageren secret key.
 - secret key
+    - Kun en selv der har den key som bruges til at aflæse beskeder krypteres med ens egen publickey.
+ 
+#### Kryptering af beskeder
+### RSA
+- Kryptering ved hjælp af primtal
+- 
 
 
 
