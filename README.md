@@ -66,5 +66,16 @@ bagud over +300 i 1. kopordinat
 Vi har lavet en prototype og en bruger test ifht hvordan brugeren vil bruge vores controller
 Det gjorde vi med et papir kryds der simulerer marionetdukke håndtaget som er vores inspiration
 
+## Kapitel 2  
+### Kryptering  
+  
+## Logbog  
+### 10.01-25
+Vi snakker om kryptering.  
+![image](https://github.com/user-attachments/assets/537395d1-710a-49c2-8c97-e6a7ef15934a)
+
+- Public key
+- secret key
+
 
 
