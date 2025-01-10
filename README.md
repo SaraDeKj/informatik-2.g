@@ -15,7 +15,6 @@ __3 lags modellen__
 - _Data_  
   Kode der beskriver hvordan den flyver
 
-## Logbog:
 ### 16.08-2024
 Vi har leget med dronen idag og lavet et script der kan få dronen til at flyve i en firkant og lave flips. Filnavn 
 
@@ -69,7 +68,6 @@ Det gjorde vi med et papir kryds der simulerer marionetdukke håndtaget som er v
 ## Kapitel 2  
 ### Kryptering  
   
-## Logbog  
 ### 10.01-25
 Vi snakker om kryptering.  
 ![image](https://github.com/user-attachments/assets/537395d1-710a-49c2-8c97-e6a7ef15934a)
