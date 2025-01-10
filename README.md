@@ -92,7 +92,7 @@ Det skal så faktoriseres til to numre som vi kalder d og e, hvor e*d mod r = 1
 
 nu har vi d, e og N  
 
-- public key 
+- public key
     -(msg)^e Mod N
     - er nu krypteret
 - secret key 
