@@ -102,10 +102,12 @@ man kan sende sin public key som andre kan bruge til at kryptere dataen men man 
 
 
 ## Cybermesterskaberne
-# AES encryptioner
-![image](https://github.com/user-attachments/assets/aee76d11-4729-4d20-921c-aaf1cd96127f)   
+### AES encryptioner
+[<img src="https://github.com/user-attachments/assets/aee76d11-4729-4d20-921c-aaf1cd96127f" width="400"/>](https://github.com/user-attachments/assets/aee76d11-4729-4d20-921c-aaf1cd96127f)
+
 Jeg bruger en AES decrypter online og indsæter information fra siden   
-![image](https://github.com/user-attachments/assets/fcbecfbb-cbb4-48e1-8e9d-e81f82671f50)   
+[<img src="https://github.com/user-attachments/assets/fcbecfbb-cbb4-48e1-8e9d-e81f82671f50" width="400"/>](https://github.com/user-attachments/assets/fcbecfbb-cbb4-48e1-8e9d-e81f82671f50)
+
 Jeg får denne key: DDC{S3cr3t_C0d3}  
 
 
