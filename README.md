@@ -66,17 +66,14 @@ Vi har lavet en prototype og en bruger test ifht hvordan brugeren vil bruge vore
 Det gjorde vi med et papir kryds der simulerer marionetdukke håndtaget som er vores inspiration
 
 ## Kapitel 2  
-### Kryptering  
+### Kryptering 10.01-25  
   
-### 10.01-25
 Vi snakker om kryptering.  
 ![image](https://github.com/user-attachments/assets/537395d1-710a-49c2-8c97-e6a7ef15934a)
 
-#### Data og bogstaver
-
  
-#### Kryptering af beskeder
-### RSA
+### Kryptering af beskeder
+#### RSA
 - Public key
     - Public og sendes us til alle så de kan kryptere information med den og sende den. Kan dekrypteres med modtageren secret key.
 - secret key
@@ -100,9 +97,16 @@ nu har vi d, e og N
     - er nu dekrypteret
 man kan sende sin public key som andre kan bruge til at kryptere dataen men man er den enste der kan dekryptere den fordi man er den eneste der har sin secret key
 
+### Projekt kryptering
+Projektet ligger under denne github:https://github.com/MichaelHNH/SIGINT   
 
-## Cybermesterskaberne
-### AES encryptioner
+Projektet går ud på at lave et program der kan kryptere og dekryptere beskeder.   
+Problem formulering: Hvordan kan vi lave et program der kan sende hemmelige beskeder ved hjælp af lyd.   
+![image](https://github.com/user-attachments/assets/ffed0a42-5872-4132-9455-3c0f9253a31c)
+
+
+### Cybermesterskaberne
+#### AES encryptioner
 [<img src="https://github.com/user-attachments/assets/aee76d11-4729-4d20-921c-aaf1cd96127f" width="400"/>](https://github.com/user-attachments/assets/aee76d11-4729-4d20-921c-aaf1cd96127f)
 
 Jeg bruger en AES decrypter online og indsæter information fra siden   
@@ -110,4 +114,24 @@ Jeg bruger en AES decrypter online og indsæter information fra siden
 
 Jeg får denne key: DDC{S3cr3t_C0d3}  
 
+### Cyber security Webstuff 27/03/2025
+Begreber:   
+* bug-bounty
+* sårbarheder
+* CVE liste
+  *   https://www.cve.org/   
+
+Vi leger med terminalen på vores computer og internet.
+* curl
+  * Viser rå data fra en webserver
+* nmap
+  * Viser åbne porte til en bestemt IP
+* ncat
+  * Forbindelse mellem computere der sender rå data, plane tekst.
+  * den ene åbner bestemt port på samme netværk den anden forbinder til port med port nummer og ip på netværk.
+  * ![image](https://github.com/user-attachments/assets/e4f931dd-9f83-49f0-bb5f-a27b57079242)
+
+### sql injection
+
+En del af brugernavnt indeholder sql som computeren så kører
 
