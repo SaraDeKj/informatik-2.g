@@ -133,5 +133,7 @@ Vi leger med terminalen på vores computer og internet.
 
 ### sql injection
 
-En del af brugernavnt indeholder sql som computeren så kører
+En del af brugernavnt indeholder sql som computeren så kører   
+Vi gennemgår følgende eksempel på SQL injection:   
+https://guicommits.com/how-sql-injection-attack-works-with-examples/ 
 
